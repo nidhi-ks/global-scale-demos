@@ -1,7 +1,5 @@
 # global-scale-demos
 
-This repository is part of the Confluent organization on GitHub.
-It is public and open to contributions from the community.
+Welcome to Global Scale Demos — a collection of infrastructure and application deployment examples designed to demonstrate scalable, resilient, and cloud-native architectures across confluent cloud and other CSPs.
 
-Please see the LICENSE file for contribution terms.
-Please see the CHANGELOG.md for details of recent updates.
+- [Tableflow All in One](./oltp-to-olap)
